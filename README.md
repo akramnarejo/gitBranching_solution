@@ -1,5 +1,5 @@
 # gitBranching_solution
 This repository contains the solution manual of https://learngitbranching.js.org/
 
-![](https://i2.wp.com/digitalvarys.com/wp-content/uploads/2019/06/GIT-Branchand-its-Operations.png?fit=1921%2C1057&ssl=1)
+<img width="1742" alt="Image" src="https://github.com/user-attachments/assets/fa56401b-031c-42d8-a82a-51d772c0de27" />
 
